@@ -1,7 +1,7 @@
 ![MasterHead](https://office-softech.cdn.vccloud.vn/ckfinder/userfiles//images/aptech/FRONT-END.jpg)
 <h1 align="center">Hi 👋, I'm Dang Nguyen Minh An</h1>
 <h3 align="center">A passionate frontend developer from VietNam</h3>
-<img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-vector/programming-concept-illustration_114360-1351.jpg?t=st=1652919466~exp=1652920066~hmac=164ece301fa547fb244e15864f11130b258d4b175367a1b9f54e95cac8ae2d87&w=740">
+<img align="right" alt="Coding" width="400" height="400" src="https://img.freepik.com/free-vector/programming-concept-illustration_114360-1351.jpg?t=st=1652919466~exp=1652920066~hmac=164ece301fa547fb244e15864f11130b258d4b175367a1b9f54e95cac8ae2d87&w=740">
 
 - 🔭 I’m currently studying on **FPT University**
 
@@ -36,6 +36,6 @@
 
 <h3 align="left">🔥GitHub Stats🔥</h3>
 
-<p><img align="left" width="375" src="https://github-readme-stats.vercel.app/api/top-langs?username=andnm&show_icons=true&locale=en&layout=compact" alt="andnm" /></p>
+<p><img align="left" width="350" src="https://github-readme-stats.vercel.app/api/top-langs?username=andnm&show_icons=true&locale=en&layout=compact" alt="andnm" /></p>
 
 <p>&nbsp;<img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=andnm&show_icons=true&locale=en" alt="andnm" /></p>
