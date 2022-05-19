@@ -1,7 +1,7 @@
 ![MasterHead](https://office-softech.cdn.vccloud.vn/ckfinder/userfiles//images/aptech/FRONT-END.jpg)
 <h1 align="center">Hi 👋, I'm Dang Nguyen Minh An</h1>
 <h3 align="center">A passionate frontend developer from VietNam</h3>
-<img align="right" alt="Coding" width="350" src="https://img.freepik.com/free-vector/programming-concept-illustration_114360-1351.jpg?t=st=1652919466~exp=1652920066~hmac=164ece301fa547fb244e15864f11130b258d4b175367a1b9f54e95cac8ae2d87&w=740">
+<img align="right" alt="Coding" width="320" src="https://img.freepik.com/free-vector/programming-concept-illustration_114360-1351.jpg?t=st=1652919466~exp=1652920066~hmac=164ece301fa547fb244e15864f11130b258d4b175367a1b9f54e95cac8ae2d87&w=740">
 
 - 🔭 I’m currently studying on **FPT University**
 
