@@ -2,18 +2,18 @@
   <img src="https://www.shutterstock.com/image-vector/web-development-banner-icon-business-260nw-1812243436.jpg" alt="Banner" width="100%">
 </p>
 
-<h1 align="center">Hi 👋, I'm An (Dang Nguyen Minh An)</h1>
-<h3 align="center">Frontend Developer (Junior) | Master Student at FSB</h3>
+[cite_start]<h1 align="center">Hi 👋, I'm An (Dang Nguyen Minh An) [cite: 1]</h1>
+<h3 align="center">Frontend Developer (Junior) | [cite_start]Master Student at FSB [cite: 1, 46]</h3>
 
 <p align="center">
   <img alt="Coding" width="350" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHpueXp6ZzR4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/u2pmTWUi0MXjyrMaVj/giphy.gif">
 </p>
 
-- 🎓 **Education**: Pursuing Master in AI-oriented Software Engineering at **FSB**
-- 💼 **Experience**: Nearly 1 year of professional experience with **React.js & Next.js**
-- 🚀 **Current Focus**: Developing scalable applications and cross-platform solutions
-- 🛠️ **Tech Stack**: Specialized in **TypeScript, Next.js, and Tailwind CSS**
-- 📧 **Contact**: [dangnguyenminhan123@gmail.com](mailto:dangnguyenminhan123@gmail.com)
+- [cite_start]🎓 **Education**: Pursuing Master in AI-oriented Software Engineering at **FSB** [cite: 46, 49]
+- [cite_start]💼 **Experience**: Nearly 1 year of professional experience with **React.js & Next.js** [cite: 4]
+- [cite_start]🚀 **Current Focus**: Developing scalable applications and cross-platform solutions [cite: 7]
+- [cite_start]🛠️ **Tech Stack**: Specialized in **TypeScript, Next.js, and Tailwind CSS** [cite: 9, 10]
+- [cite_start]📧 **Contact**: [dangnguyenminhan123@gmail.com](mailto:dangnguyenminhan123@gmail.com) [cite: 2]
 
 ---
 
@@ -31,10 +31,18 @@
 
 ### 📈 GitHub Stats
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=andnm&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="andnm" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=andnm&show_icons=true&locale=en&theme=vision-friendly-dark" alt="andnm" />
-</p>
+<div align="center">
+  <table border="0">
+    <tr>
+      <td width="50%" align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=andnm&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="Top Languages" />
+      </td>
+      <td width="50%" align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=andnm&show_icons=true&locale=en&theme=vision-friendly-dark" alt="GitHub Stats" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
