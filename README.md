@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://www.shutterstock.com/image-vector/web-development-banner-icon-business-260nw-1812243436.jpg" 
+  <img src="https://live.staticflickr.com/65535/55161985425_d4955ffe90_b.jpg" 
        alt="Banner" 
        width="100%" 
        style="object-fit: cover; object-position: center;">
@@ -22,7 +22,7 @@
 
 ### 💼 Work Experience
 
-<details>
+<details open>
   <summary><b>Self-employed</b> | Frontend Developer (Sep 2025 - Present)</summary>
   <br>
   <ul>
