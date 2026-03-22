@@ -2,7 +2,7 @@
   <img src="https://www.shutterstock.com/image-vector/web-development-banner-icon-business-260nw-1812243436.jpg" 
        alt="Banner" 
        width="100%" 
-       style="height: 140px; object-fit: cover; object-position: center;">
+       style="object-fit: cover; object-position: center;">
 </p>
 
 <h1 align="center">Hi 👋, I'm An (Dang Nguyen Minh An)</h1>
@@ -22,7 +22,16 @@
 
 ### 💼 Work Experience
 
-<details open>
+<details>
+  <summary><b>Self-employed</b> | Frontend Developer (Sep 2025 - Present)</summary>
+  <br>
+  <ul>
+    <li>Delivered custom frontend solutions and responsive UI components for multiple clients.</li>
+    <li>Integrated RESTful APIs and optimized project performance.</li>
+  </ul>
+</details>
+
+<details >
   <summary><b>Digital Age Technology Solutions</b> | Front-End Developer (Feb 2025 - Aug 2025)</summary>
   <br>
   <ul>
@@ -43,14 +52,6 @@
   </ul>
 </details>
 
-<details>
-  <summary><b>Self-employed</b> | Frontend Developer (Sep 2025 - Present)</summary>
-  <br>
-  <ul>
-    <li>Delivered custom frontend solutions and responsive UI components for multiple clients.</li>
-    <li>Integrated RESTful APIs and optimized project performance.</li>
-  </ul>
-</details>
 
 ---
 
