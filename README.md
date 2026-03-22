@@ -1,9 +1,4 @@
-<p align="center">
-  <img src="https://www.shutterstock.com/image-vector/web-development-banner-icon-business-260nw-1812243436.jpg" 
-       alt="Banner" 
-       width="100%" 
-       style="height: 120px; object-fit: cover; object-position: center;">
-</p>
+![Banner](https://www.shutterstock.com/image-vector/web-development-banner-icon-business-260nw-1812243436.jpg)
 
 <h1 align="center">Hi 👋, I'm An (Dang Nguyen Minh An)</h1>
 <h3 align="center">Frontend Developer (Junior) | Master Student at FSB</h3>
