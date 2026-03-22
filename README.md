@@ -2,7 +2,7 @@
   <img src="https://www.shutterstock.com/image-vector/web-development-banner-icon-business-260nw-1812243436.jpg" 
        alt="Banner" 
        width="100%" 
-       style="object-fit: cover; height: 100px; object-position: center;">
+       style="height: 120px; object-fit: cover; object-position: center;">
 </p>
 
 <h1 align="center">Hi 👋, I'm An (Dang Nguyen Minh An)</h1>
