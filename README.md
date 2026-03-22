@@ -1,15 +1,19 @@
-![Banner](https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=Dang%20Nguyen%20Minh%20An&fontSize=70)
+<p align="center">
+  <img src="YOUR_IMAGE_LINK_HERE" alt="Banner" width="100%">
+</p>
 
 <h1 align="center">Hi 👋, I'm An (Dang Nguyen Minh An)</h1>
 <h3 align="center">Frontend Developer (Junior) | Master Student at FSB</h3>
 
-<img align="right" alt="Coding" width="350" src="https://combined-assets.netlify.app/coding.gif">
+<p align="center">
+  <img alt="Coding" width="350" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHpueXp6ZzR4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/u2pmTWUi0MXjyrMaVj/giphy.gif">
+</p>
 
-- [cite_start]🎓 **Education**: Pursuing Master in AI-oriented Software Engineering at **FSB** [cite: 45, 46]
-- [cite_start]💼 **Experience**: Nearly 1 year of professional experience with **React.js & Next.js** [cite: 4]
-- [cite_start]🚀 **Current Focus**: Developing scalable applications and cross-platform solutions 
-- [cite_start]🛠️ **Tech Stack**: Specialized in **TypeScript, Next.js, and Tailwind CSS** 
-- [cite_start]📧 **Contact**: [dangnguyenminhan123@gmail.com](mailto:dangnguyenminhan123@gmail.com) [cite: 2]
+- 🎓 **Education**: Pursuing Master in AI-oriented Software Engineering at **FSB**
+- 💼 **Experience**: Nearly 1 year of professional experience with **React.js & Next.js**
+- 🚀 **Current Focus**: Developing scalable applications and cross-platform solutions
+- 🛠️ **Tech Stack**: Specialized in **TypeScript, Next.js, and Tailwind CSS**
+- 📧 **Contact**: [dangnguyenminhan123@gmail.com](mailto:dangnguyenminhan123@gmail.com)
 
 ---
 
@@ -36,7 +40,7 @@
 
 ### 🤝 Connect with me
 <p align="left">
-<a href="https://www.facebook.com/DangNguyenMinhAn158/" target="_blank">
+<a href="https://www.facebook.com/andnm1508/?locale=vi_VN" target="_blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
 </a>
 </p>
