@@ -1,4 +1,9 @@
-![Banner](https://www.shutterstock.com/image-vector/web-development-banner-icon-business-260nw-1812243436.jpg)
+<p align="center">
+  <img src="https://www.shutterstock.com/image-vector/web-development-banner-icon-business-260nw-1812243436.jpg" 
+       alt="Banner" 
+       width="100%" 
+       style="height: 140px; object-fit: cover; object-position: center;">
+</p>
 
 <h1 align="center">Hi 👋, I'm An (Dang Nguyen Minh An)</h1>
 <h3 align="center">Frontend Developer (Junior) | Master Student at FSB</h3>
@@ -12,6 +17,40 @@
 - 🚀 **Current Focus**: Developing scalable applications and cross-platform solutions
 - 🛠️ **Tech Stack**: Specialized in **TypeScript, Next.js, and Tailwind CSS**
 - 📧 **Contact**: [dangnguyenminhan123@gmail.com](mailto:dangnguyenminhan123@gmail.com)
+
+---
+
+### 💼 Work Experience
+
+<details open>
+  <summary><b>Digital Age Technology Solutions</b> | Front-End Developer (Feb 2025 - Aug 2025)</summary>
+  <br>
+  <ul>
+    <li>Developed responsive UI components for a digital signature platform used by <b>VietJet Air</b>.</li>
+    <li>Integrated RESTful APIs for document signing, authentication, and data management.</li>
+    <li>Maintained and enhanced modules, resolving bugs and improving system reliability.</li>
+    <li><b>Tech Stack:</b> TypeScript, Next.js, .NET, MySQL.</li>
+  </ul>
+</details>
+
+<details>
+  <summary><b>FPT Software (CMS)</b> | Frontend Developer - OJT (Sep 2022 - Feb 2023)</summary>
+  <br>
+  <ul>
+    <li>Developed a reservation and tour management platform for Japanese customers.</li>
+    <li>Collaborated with Backend teams to integrate features according to schedule.</li>
+    <li><b>Tech Stack:</b> TypeScript, ReactJS, Redux-toolkit, Material UI.</li>
+  </ul>
+</details>
+
+<details>
+  <summary><b>Self-employed</b> | Frontend Developer (Sep 2025 - Present)</summary>
+  <br>
+  <ul>
+    <li>Delivered custom frontend solutions and responsive UI components for multiple clients.</li>
+    <li>Integrated RESTful APIs and optimized project performance.</li>
+  </ul>
+</details>
 
 ---
 
