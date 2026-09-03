@@ -118,10 +118,10 @@
   <table border="0">
     <tr>
       <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Andnm&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="Top Languages" />
+        <img src="./profile/top-langs.svg" alt="Top Languages" />
       </td>
       <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=Andnm&show_icons=true&locale=en&theme=vision-friendly-dark" alt="GitHub Stats" />
+        <img src="./profile/stats.svg" alt="GitHub Stats" />
       </td>
     </tr>
   </table>
