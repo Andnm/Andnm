@@ -6,7 +6,7 @@
   />
 </p>
 
-<h1 align="center">Hi 👋, I'm An (Dang Nguyen Minh An)</h1>
+<h1 align="center">Hi, I'm An (Dang Nguyen Minh An)</h1>
 <h3 align="center">Full-Stack Software Engineer | AI-assisted Development | Master's Student in AI-oriented Software Engineering</h3>
 
 <p align="center">
@@ -33,7 +33,7 @@
 - **Evidence over claims.** Reviews must run against real data and real tests. A "done" or "PASS" is only accepted after it is re-verified.
 - **Independent QA agents.** I hand a self-contained test script to a fresh AI agent with no context of the build, and have it audit the product end to end and report bugs with file and line references.
 - **Context kept in the repo.** Conventions, invariants and decisions live in versioned project files, so every session starts from the same rules.
-- **I make the decisions.** AI proposes and challenges; trade-offs and what ships are my call.
+- **Humans remain the final decision-makers.** AI proposes and challenges; I make the final call on trade-offs and what ships.
 
 See it in practice: [capstone-master](https://github.com/Andnm/capstone-master) and [ProjectBlackDiamond](https://github.com/Andnm/ProjectBlackDiamond).
 
@@ -88,20 +88,21 @@ See it in practice: [capstone-master](https://github.com/Andnm/capstone-master) 
     <li>Built a crash-safe crawling pipeline (MySQL job queue, lease-based claiming, network circuit breaker) around a dual-time-axis data model, running unattended every day across ~354 hotels in 5 cities.</li>
     <li>Collected 1.3M+ price observations; the first warehouse snapshot rebuilds with identical checksums.</li>
     <li>Designed a self-calibrating room and rate-plan matching system that auto-approves comparable inventory from stable attribute fingerprints instead of hand-built mappings.</li>
-    <li>Built with a builder/reviewer AI workflow: an independent model's reviews caught defects in anomaly handling (for example 62 of 99 flagged price spikes were false positives) before they reached the dataset.</li>
+    <li>Built with a builder/reviewer AI workflow: one model implements, an independent model reviews in written threads, and nothing is signed off until it passes on real data.</li>
     <li>Training Random Forest and XGBoost models, supported by SHAP, to forecast 1/3/7/14-day price movements.</li>
     <li><b>Tech Stack:</b> Python, FastAPI, MySQL, Selenium, Next.js, scikit-learn, XGBoost.</li>
   </ul>
 </details>
 
 <details>
-  <summary><b><a href="https://github.com/Andnm/ProjectBlackDiamond">ProjectBlackDiamond</a></b> | Multilingual luxury-catalog website with admin CMS (2026)</summary>
+  <summary><b><a href="https://github.com/Andnm/ProjectBlackDiamond">ProjectBlackDiamond</a></b> | Client project: multilingual luxury-jewellery website with admin CMS (2026)</summary>
   <br />
   <ul>
     <li>Built a 5-language website (Thai, Vietnamese, Lao, Chinese, English) with catalog, blog, membership and newsletter forms, SEO (sitemap, robots) and per-locale currency display updated by a daily scheduled job.</li>
     <li>Built an admin CMS with Supabase authentication, rich-text editing, image storage, and an automatic translation workflow with per-field status and quota tracking.</li>
-    <li>Developed with AI assistance; an independent AI agent ran a full end-to-end audit from a written test script, surfacing a critical database-authorization issue, translation-loss and orphan-data regressions, and soft-404 pages, documented in the repo's audit report.</li>
-    <li><b>Tech Stack:</b> Next.js, React, TypeScript, Tailwind CSS, Supabase (PostgreSQL, Auth, RLS).</li>
+    <li>Developed with AI assistance and verified before release by an independent AI QA agent that audits the whole site from a written end-to-end test script, under strict rules: report only, evidence for every finding, clean up all test data.</li>
+    <li>Deployed on Vercel (fast delivery, low running cost) for a real client.</li>
+    <li><b>Tech Stack:</b> Next.js, React, TypeScript, Tailwind CSS, Supabase (PostgreSQL, Auth, RLS), Vercel.</li>
   </ul>
 </details>
 
