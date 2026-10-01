@@ -6,7 +6,7 @@
   />
 </p>
 
-<h1 align="center">Hi, I'm An (Dang Nguyen Minh An)</h1>
+<h1 align="center">Hi 👋, I'm An (Dang Nguyen Minh An)</h1>
 <h3 align="center">Full-Stack Software Engineer | AI-assisted Development | Master's Student in AI-oriented Software Engineering</h3>
 
 <p align="center">
@@ -45,7 +45,7 @@ See it in practice: [capstone-master](https://github.com/Andnm/capstone-master) 
   <summary><b>Freelance / Independent</b> | Software Engineer (Sep 2025 - Present)</summary>
   <br />
   <ul>
-    <li>Deliver end-to-end web solutions for multiple clients, from requirements analysis and database design to RESTful APIs and responsive user interfaces.</li>
+    <li>Deliver a range of end-to-end web products for multiple clients across different domains, from requirements analysis and database design to RESTful APIs and responsive user interfaces.</li>
     <li>Build admin dashboards with JWT authentication, role-based access control, file upload, and searchable, filterable, paginated data tables.</li>
     <li>Ship products with an AI-assisted workflow: one model builds, an independent model reviews and audits behaviour, and findings are checked against real data and a written end-to-end test script before release.</li>
     <li>Own deployment end to end: Docker, Linux VPS provisioning, Nginx reverse proxy, domain/DNS and SSL.</li>
@@ -95,13 +95,13 @@ See it in practice: [capstone-master](https://github.com/Andnm/capstone-master) 
 </details>
 
 <details>
-  <summary><b><a href="https://github.com/Andnm/ProjectBlackDiamond">ProjectBlackDiamond</a></b> | Client project: multilingual luxury-jewellery website with admin CMS (2026)</summary>
+  <summary><b><a href="https://github.com/Andnm/ProjectBlackDiamond">ProjectBlackDiamond</a></b> | Client project: multilingual luxury-jewellery website with admin CMS (2026) | <a href="https://www.blackdiamondluxury.org/">Live site</a></summary>
   <br />
   <ul>
     <li>Built a 5-language website (Thai, Vietnamese, Lao, Chinese, English) with catalog, blog, membership and newsletter forms, SEO (sitemap, robots) and per-locale currency display updated by a daily scheduled job.</li>
     <li>Built an admin CMS with Supabase authentication, rich-text editing, image storage, and an automatic translation workflow with per-field status and quota tracking.</li>
     <li>Developed with AI assistance and verified before release by an independent AI QA agent that audits the whole site from a written end-to-end test script, under strict rules: report only, evidence for every finding, clean up all test data.</li>
-    <li>Deployed on Vercel (fast delivery, low running cost) for a real client.</li>
+    <li>Live in production for a real client at <a href="https://www.blackdiamondluxury.org/">blackdiamondluxury.org</a>, deployed on Vercel for fast delivery and low running cost.</li>
     <li><b>Tech Stack:</b> Next.js, React, TypeScript, Tailwind CSS, Supabase (PostgreSQL, Auth, RLS), Vercel.</li>
   </ul>
 </details>
